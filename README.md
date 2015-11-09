@@ -1,5 +1,5 @@
 # Hangman
-Native hangman app for Android
+Native hangman game-app for Android
 
 <p>Features:</p>
 
