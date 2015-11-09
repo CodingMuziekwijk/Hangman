@@ -1,7 +1,7 @@
 # Hangman
-Native hangman game-app for Android
+<H3>Native hangman game-app for Android</H3>
 
-<p>Features:</p>
+<p><H2>Features:</H3></p>
 
 <ul>
   <li>homescreen</li>
@@ -50,5 +50,5 @@ Native hangman game-app for Android
     </ul>
 </ul>
 
-<H1>First UX Design</H1>
+<H2>First UX Design</H2>
 ![Figure 1-1](https://github.com/CodingMuziekwijk/Hangman/blob/master/first_sketches.JPG?raw=true)
