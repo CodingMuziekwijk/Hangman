@@ -4,7 +4,7 @@ Native hangman app for Android
 <p>Features:</p>
 
 <ul>
-  <li>Homescreen</li>
+  <li>homescreen</li>
     <ul>
       <li>New game</li>
     </ul>
@@ -50,4 +50,3 @@ Native hangman app for Android
     </ul>
 </ul>
 
-<p>adjust settings:</p>
