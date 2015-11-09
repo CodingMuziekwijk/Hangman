@@ -50,4 +50,4 @@ Native hangman game-app for Android
     </ul>
 </ul>
 
-https://github.com/CodingMuziekwijk/Hangman/blob/master/first_sketches.JPG?raw=true)
+![Figure 1-1](https://github.com/CodingMuziekwijk/Hangman/blob/master/first_sketches.JPG?raw=true)
