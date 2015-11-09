@@ -1,5 +1,5 @@
 # Hangman
-<H3>Native hangman game-app for Android</H3>
+<H4>Native hangman game-app for Android</H4>
 
 <p><H2>Features:</H3></p>
 
