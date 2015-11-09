@@ -4,9 +4,20 @@ Native hangman app for Android
 <p>Features:</p>
 
 <ul>
-  <li>start new game</li>
-  
+  <li>Homescreen</li>
+    <ul>
+      <li>New game</li>
+    </ul>
+    <ul>
+      <li>Go to settings</li>
+    </ul>
   <li>view highscores</li>
+    <ul>
+      <li>New game</li>
+    </ul>
+    <ul>
+      <li>Go to settings</li>
+    </ul>
   
   <li>adjust settings</li>
   <ul>
@@ -19,12 +30,24 @@ Native hangman app for Android
     </ul>
     <li>Amount of lives</li>
     <ul>
-      <li>"[1] .. [2]"</li>
+      <li>"[1] .. [26]"</li>
     </ul>
     <li>Word length</li>
+    <ul>
+      <li>"[1] .. [26]"</li>
+    </ul>
   </ul>
   
   <li>play hangman game</li>
+    <ul>
+      <li>Input to keyboard</li>
+    </ul>
+    <ul>
+      <li>Go to highscore</li>
+    </ul>
+    <ul>
+      <li>Go to settings</li>
+    </ul>
 </ul>
 
 <p>adjust settings:</p>
