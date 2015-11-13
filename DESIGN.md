@@ -2,7 +2,7 @@
 
 <H2>Classes and methods</H2>
 
-<H5>Activities:</H5>
+<H4>Activities:</H4>
 <ul>
   <li>Homescreen_Activity</li>
   <li>GameScreen_Activity</li>
@@ -10,14 +10,14 @@
   <li>Highscore_Activity</li>
 </ul>
 
-<H5>Homescreen_Activity:</H5>
+<H4>Homescreen_Activity:</H4>
 <H6>Methods</H6>
 <ul>
   <li>new_game()</li>
   <li>Open_Settings()</li>
 </ul>
 
-<H5>GameScreen_Activity:</H5>
+<H4>GameScreen_Activity:</H4>
 <H6>Methods</H6>
 <ul>
   <li>Display_current_lives()</li>
@@ -27,7 +27,7 @@
   <li>Goto_Highscores()</li>
 </ul>
 
-<H5>Settings_Activity:</H5>
+<H4>Settings_Activity:</H4>
 <H6>Methods</H6>
 <ul>
   <li>mode()</li>
@@ -37,7 +37,7 @@
   <li>display_word_length()</li>
 </ul>
 
-<H5>Highscore_Activity:</H5>
+<H4>Highscore_Activity:</H4>
 <H6>Methods</H6>
 <ul>
   <li>Display_highscores()</li>
