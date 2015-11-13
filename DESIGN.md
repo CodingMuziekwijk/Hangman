@@ -2,11 +2,26 @@
 
 <H2>Classes and methods</H2>
 
+<H5>Activities:</H5>
 <ul>
-  <li>test</li>
+  <li>Homescreen_Activity</li>
+  <li>GameScreen_Activity</li>
+  <li>Settings_Activity</li>
+  <li>Highscore_Activity</li>
 </ul>
 
+<H5>Homescreen_Activity:</H5>
+<H6>Methods</H6>
+<ul>
+  <li>new_game()</li>
+  <li>Open_Settings()</li>
+</ul>
 
+<H5>GameScreen_Activity:</H5>
+
+<H5>Settings_Activity:</H5>
+
+<H5>Highscore_Activity:</H5>
 
 
 
