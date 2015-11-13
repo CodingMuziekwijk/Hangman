@@ -18,12 +18,31 @@
 </ul>
 
 <H5>GameScreen_Activity:</H5>
+<H6>Methods</H6>
+<ul>
+  <li>Display_current_lives()</li>
+  <li>Display_word()</li>
+  <li>Display_gallow()</li>
+  <li>Display_Alphabet()</li>
+  <li>Goto_Highscores()</li>
+</ul>
 
 <H5>Settings_Activity:</H5>
+<H6>Methods</H6>
+<ul>
+  <li>mode()</li>
+  <li>amount_lives()</li>
+  <li>word_length</li>
+  <li>display_lives()</li>
+  <li>display_word_length()</li>
+</ul>
 
 <H5>Highscore_Activity:</H5>
-
-
+<H6>Methods</H6>
+<ul>
+  <li>Display_highscores()</li>
+  <li>New_game()</li>
+</ul>
 
 
 <H2>Overview model classes</H2>
