@@ -2,6 +2,10 @@
 <H6>Mark Landkroon (11041277)</H6>
 <H4>Native hangman game-app for Android</H4>
 
+<p><H2>BETA VERSION</H2></p>
+
+<p>https://github.com/CodingMuziekwijk/EvilHangman</p>
+
 <p><H2>Features:</H3></p>
 
 <ul>
